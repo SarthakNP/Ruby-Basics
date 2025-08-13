@@ -1,15 +1,5 @@
 # Project 1a: Ruby Warmup
 
-Due: February 5, 2023 at 11:59 PM (late February 6, *10% penalty*). **Note the deadline: just over one week**
-
-Points: 80 public, 20 semipublic
-
-**This is an individual assignment. You must work on this project alone.**
-
-## Before You Start
-
-**If you have not yet completed [project 0](https://classroom.github.com/a/uXj0y7qf), you should do so before starting this project.**  At the very least, you should have everything related to Ruby installed correctly.  If you have any trouble with installation, check Piazza (or create a post if you don't find your problem there), or come to office hours to get help from a TA.
-
 ## Introduction
 This project aims to give you some experience with basic Ruby functionality, including using basic data types (integers, strings), collections (arrays and hashes), and classes. You will also become familiar with Ruby's basic control constructs for looping and conditional execution, and how to run Ruby unit tests.
 
